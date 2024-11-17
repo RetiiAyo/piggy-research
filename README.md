@@ -21,6 +21,7 @@ This repository will cover the following topics:
 
 ## Repository Structure
 
+```
 piggy-research/
 ├── game-mechanics/
 │   ├── survivor-roles.md
@@ -46,6 +47,7 @@ piggy-research/
 │   ├── community-impact.md
 │   └── industry-influence.md
 └── README.md
+```
 
 ## Contributing
 
