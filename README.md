@@ -1,7 +1,7 @@
 # Piggy: Research
 
 <div align="center">
-  <img> src="https://raw.githubusercontent.com/RetiiAyo/piggy-research/refs/heads/main/content/piggy-bg.jpg?token=GHSAT0AAAAAACVLBHOGY7RGLAV6OPBMY2NYZZ2AOSA" alt="Header" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RetiiAyo/piggy-research/refs/heads/main/content/piggy-bg.jpg?token=GHSAT0AAAAAACVLBHOGY7RGLAV6OPBMY2NYZZ2AOSA" alt="Header" width="80%"/>
 </div>
 
 This repository is dedicated to researching *PIGGY: Hunt* - the Steam game that was shut down in October 2023. The research aims to document various aspects of the game, its mechanics, and the community's reaction to its closure. This project serves as an archive to preserve the legacy of the game for future reference and analysis.
