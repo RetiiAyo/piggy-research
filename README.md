@@ -2,6 +2,9 @@
 
 This repository is dedicated to researching *PIGGY: Hunt* - the Steam game that was shut down in October 2023. The research aims to document various aspects of the game, its mechanics, and the community's reaction to its closure. This project serves as an archive to preserve the legacy of the game for future reference and analysis.
 
+> [!WARNING]
+> This game was shutdown in October of 2023. The game is still downloadable on Steam, but its stuck on the loading screen. Many people think its a "bug".
+
 ## About PIGGY: Hunt
 
 *PIGGY: Hunt* was a multiplayer horror game released on Steam that combined elements of the *PIGGY* franchise with asymmetric gameplay. Players either played as survivors, attempting to evade Piggy, or as the infected, who hunted down survivors in a strategic and tense environment. It garnered a dedicated following but was shut down in October 2023 due to various factors, including player feedback and evolving game trends.
@@ -24,8 +27,8 @@ This repository will cover the following topics:
 ```
 piggy-research/
 ├── game-mechanics/
-│   ├── survivor-roles.md
-│   ├── hunter-abilities.md
+│   ├── roles.md
+│   ├── infected-abilities.md
 │   └── map-design.md
 ├── game-development/
 │   ├── update-history.md
