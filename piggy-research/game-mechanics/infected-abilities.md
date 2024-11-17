@@ -3,9 +3,10 @@
 As Infected, you have 3 different types of traps:
 
 > [!WARNING]
-> Bear Trap - TrapStun
-> Slow Trap - TrapSlow
-> Teleporter - TrapTeleport
+> *Codenames*:
+> Bear Trap - TrapStun,
+> Slow Trap - TrapSlow,
+> Teleporter - TrapTeleport,
 
 ## 1. Bear Trap
 ### Stuns player for around 5 seconds.
