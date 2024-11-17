@@ -8,6 +8,9 @@ This repository is dedicated to researching *PIGGY: Hunt* - the Steam game that 
 
 > [!WARNING]
 > This game was shutdown in October of 2023. The game is still downloadable on Steam, but its stuck on the loading screen. Many people think its a "bug".
+>
+> [!WARNING]
+> Most of this repository **isn't finished yet** and if you would like to help, feel free to pull request.
 
 ## About PIGGY: Hunt
 
@@ -35,9 +38,7 @@ piggy-research/
 │   ├── infected-abilities.md
 │   └── map-design.md
 ├── game-development/
-│   ├── update-history.md
-│   ├── patch-notes.md
-│   └── gameplay-changes.md
+│   └── update-history.md
 ├── community-insights/
 │   ├── player-feedback.md
 │   ├── fan-content.md
