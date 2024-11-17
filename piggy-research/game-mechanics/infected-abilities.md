@@ -2,7 +2,7 @@
 
 As Infected, you have 3 different types of traps:
 
-> [Codenames]
+> [!CODENAMES]
 > Bear Trap - TrapStun
 > Slow Trap - TrapSlow
 > Teleporter - TrapTeleport
